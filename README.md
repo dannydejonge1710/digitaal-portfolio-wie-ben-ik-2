@@ -3,7 +3,7 @@ Digitaal Portfolio (Wie ben ik - deel 2).
 
 In de opdracht [wie ben ik](https://github.com/davinci-ao/wie-ben-ik) heb je een eerste begin gemaakt met het maken van jouw digitaal portfolio. In de opdracht [layout](https://github.com/davinci-ao/layout) heb je geoefend met het maken van een layout voor zowel desktop- als mobiel gebruik. Deze opdracht heeft als doel om het portfolio te voorzien van zo'n layout en de inhoud verder uit te breiden en online beschikbaar te stellen. Je hebt daarom je bestanden uit de vorige opdrachten nodig. 
 
-###Functionele eisen
+### Functionele eisen
 Wie ben ik - deel 2 moet aan de volgende functionele eisen voldoen:
 * Jouw portfolio bevat een menu (dit mag een openklap-menu zijn of een menu dat niet openklapt);
 * Jouw portfolio bevat een index.html pagina (dit is de eerste pagina die een bezoeker ziet; je mag de inhoud van deze pagina zelf kiezen; de pagina geeft een samenvatting over jouw portfolio);
@@ -17,7 +17,7 @@ Wie ben ik - deel 2 moet aan de volgende functionele eisen voldoen:
 * Jouw portfolio is op internet opvraagbaar;
 * Je hebt, na het op internet zetten, alle links op alle pagina's getest;
 
-###Technische eisen
+### Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
 
 De opdracht moet aan de volgende technische eisen voldoen:
@@ -29,5 +29,5 @@ De opdracht moet aan de volgende technische eisen voldoen:
 * Jouw portfolio bevat javascript code die de DOM manipuleert (*);
 * Jouw portfolio is op internet te bekijken via [http://gebruikersnaam.github.io/](http://gebruikersnaam.github.io/). Je hebt dit - als het goed is - al aangezet bij de opdracht "[wie ben ik](https://github.com/davinci-ao/wie-ben-ik)".
 
-###Bonus
+### Bonus
 * Je gebruikt een Font Awesome of een Google Font voor je menu-icons;
